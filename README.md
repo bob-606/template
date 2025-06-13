@@ -1,5 +1,3 @@
-# template(s)
-
 **Template 1: General Payment Dispute Inquiry**
 
 	Subject: 결제 관련 문의 (Payment-Related Inquiry)
